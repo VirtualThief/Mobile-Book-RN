@@ -1,0 +1,6 @@
+[submodule "Mobile-Book-RN-App"]
+	path = react-native-app
+	url = https://github.com/VirtualThief/Mobile-Book-RN-App.git
+[submodule "Mobile-Book-RN-PDF-Module"]
+	path = react-native-pdf-module
+	url = https://github.com/VirtualThief/Mobile-Book-RN-PDF-Module.git
